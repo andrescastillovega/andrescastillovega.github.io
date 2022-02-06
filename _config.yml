@@ -63,9 +63,9 @@ author:
   bio      : "My awesome biography constrained to a sentence or two goes here. My awesome biography constrained to a sentence or two goes here. My awesome biography constrained to a sentence or two goes here."
   location : "Toronto, CA"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://linkedin.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
